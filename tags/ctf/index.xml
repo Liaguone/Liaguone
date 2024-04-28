@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>CTF - Tag - Liagus blog</title>
+    <link>http://localhost:1313/tags/ctf/</link>
+    <description>CTF - Tag | Liagus blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 16:38:02 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/ctf/" rel="self" type="application/rss+xml" /><item>
+  <title>(hu)2024育才杯</title>
+  <link>http://localhost:1313/posts/87568/</link>
+  <pubDate>Sat, 27 Apr 2024 16:38:02 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/87568/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

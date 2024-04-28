@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>日常分享 - Category - Liagus blog</title>
+    <link>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/</link>
+    <description>日常分享 - Category | Liagus blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 14:34:31 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/" rel="self" type="application/rss+xml" /><item>
+  <title>Blog新建之始</title>
+  <link>http://localhost:1313/posts/0492dcd/</link>
+  <pubDate>Sat, 27 Apr 2024 14:34:31 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://localhost:1313/posts/0492dcd/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
